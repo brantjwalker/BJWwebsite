@@ -118,7 +118,7 @@ params:
     intro: "Hi, my name is"
     title: "Brant Walker."
     subtitle: "Aspiring economist."
-    content: "A small town Iowan passionate about developing better economic tools in environmental settings."
+    content: "A small town Iowan passionate about understanding economic decision making in environmental settings."
     image: ""
     button:
       enable: true
@@ -167,8 +167,8 @@ params:
 
         <u>**Published/Forthcoming**</u>
         
-        "Are Earmarks Equally Targeted: Evidence from US Drinking Water", 2024. <i>AEA Papers & Proceedings</i>. (with David A. Keiser, Bhashkar Mazumder, David Molitor, and Joseph S. Shapiro).
-
+        ["Are Earmarks Equally Targeted: Evidence from US Drinking Water", 2024. <i>AEA Papers & Proceedings</i>. (with David A. Keiser, Bhashkar Mazumder, David Molitor, and Joseph S. Shapiro).](https://github.com/brantwalker/BJWwebsite/blob/main/Files/Papers/SDWA_Earmarks_WP.pdf")
+        
         <u>**Other interests**</u>
 
         Outside of work, I enjoy hiking, camping, long-distance running, and generally breathing fresh air. Also, I play ice-hockey 1-3 times a week and occassionally attend chess clubs. 
