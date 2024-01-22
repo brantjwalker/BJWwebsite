@@ -117,7 +117,7 @@ params:
     enable: true
     intro: "Hi, my name is"
     title: "Brant Walker."
-    subtitle: "Aspiring economist."
+    # subtitle: "Aspiring economist."
     content: "A small town Iowan passionate about understanding economic decision making in environmental settings."
     image: ""
     button:
