@@ -118,7 +118,7 @@ params:
     intro: "Hi, my name is"
     title: "Brant Walker."
     # subtitle: "Aspiring economist."
-    content: "A small town Iowan passionate about understanding economic decision making in environmental settings."
+    content: "Studying economic decision making in environmental settings."
     image: ""
     button:
       enable: true
@@ -142,15 +142,18 @@ params:
     title: "About Me"
     image: "/images/BJWheadshot_square.png"
     content: |-
-       I am a Pre-doctoral Research Fellow at the National Bureau of Economic Research, based at the University of California, Berkeley, where I work with Professor Joseph Shapiro. Previously, I worked at the <a href="https://siepr.stanford.edu/programs/predoctoral-research-fellowship-opportunities">Stanford Institute for Economic Policy and Research</a>, and the <a href="https://www.heal-project.eu/"> University of Mannheim</a>. I graduated with highest distinction from the University of Iowa with a B.S. in Mathematics and Economics in 2021.
-            
-        My fields of interest are environmental/public economics, industrial organization, and health. In general, I focus on incentives in environmental settings. These incentives are created by interactions of natural resource availability, instutitutional policy, and market structures. 
-            
-        I will be attending Yale University's School of the Environment starting in Fall 2024 as an NSF Graduate Student Fellow.  
+        I am a PhD Student and NSF Graduate Student Fellow at Yale University's School of the Environment. 
+
+        In general, I am interested in environmental/public economics, industrial organization, and health. I'm most curious about our incentives when we interact with the environment. 
+        
+        <u>**Published/Forthcoming**</u>
+        
+        ["Are Earmarks Equally Targeted: Evidence from US Drinking Water", 2024. <i>American Economic Review Papers and Proceedings</i>. (with David A. Keiser, Bhashkar Mazumder, David Molitor, and Joseph S. Shapiro).](https://www.aeaweb.org/articles?id=10.1257/pandp.20241009)
 
         <u>**Experience**</u>
         
-        2023 - Present: Pre-doctoral Research Fellow at National Bureau of Economic Research, University of California, Berkeley.  
+        2024 - Present: PhD Student and NSF Graduate Student Fellow at Yale University's School of the Environment.
+        2023 - 2024: Pre-doctoral Research Fellow at National Bureau of Economic Research, University of California, Berkeley.  
         2022 - 2023: Research Fellow at Stanford Institute for Economic Policy and Research.  
         2021 - 2022: Fulbright Research Fellow at Univeristät Mannheim.  
         2020 - 2021: Undergraduate Research Fellow at Iowa Center for Research by Undergraduates.  
@@ -158,23 +161,18 @@ params:
         
         <u>**Honors, Awards, Grants**</u>
         
+        2024-2029: NSF Graduate Student Fellowship.
         2022: Fulbright Research Grant - Economics.  
         2021: George S. Schaeffer Scholarship in Science. University of Iowa.   
-        2021: Dare to Discover - Excellence in Research. University of Iowa.  
+        2021: Dare to Discover - Excellence in Research. University of Iowa.
+        2021: University Honors and Honors in the Major of Economics. University of Iowa.  
         2021: Phi Beta Kappa. University of Iowa.  
         2020: Research Grant. Iowa Center for Research by Undergraduates. $4500  
         2020: Research Grant. Public Policy Center at the University of Iowa. $1500  
-
-        <u>**Published/Forthcoming**</u>
-        
-        ["Are Earmarks Equally Targeted: Evidence from US Drinking Water", 2024. <i>American Economic Review Papers and Proceedings</i>. (with David A. Keiser, Bhashkar Mazumder, David Molitor, and Joseph S. Shapiro).](https://www.aeaweb.org/articles?id=10.1257/pandp.20241009)
         
         <u>**Other interests**</u>
 
-        Outside of work, I enjoy hiking, camping, long-distance running, and generally breathing fresh air. Also, I play ice-hockey 1-3 times a week and occassionally attend chess clubs. 
-
-        
-            
+        Outside of work, I enjoy biking, ice hockey, chess, hiking, long-distance running, and generally breathing fresh air.
 
 #    # skills:
     #   enable: true
@@ -292,7 +290,8 @@ params:
         content: |-
           Graduated with 
           - Highest Distinction (top 2% of class) 
-          - Honors in Economics
+          - Honors in the Major of Economics
+          - University Honors
           - Dare to Discover - Excellence in Research
           - Minor in Philosophy
 
@@ -310,26 +309,25 @@ params:
           enable: false
           name: "Press Release"
           url: "https://tippie.uiowa.edu/news/2021/05/congratulations-our-2021-fulbright-award-recipient-brant-walker"
-        content: |-
-          Participated in graduate economics courses and reading groups responding to frontier papers in a "Referee Report" format. 
+        # content: |-
+        #   Participated in graduate economics courses and reading groups responding to frontier papers in a "Referee Report" format. 
           
-          Attended and presented at Environmental Economics Seminar/Workshop.
+        #   Attended and presented at Environmental Economics Seminar/Workshop.
+             
+      # - title: "SIEPR Program"
+      #   school:
+      #     name: "Stanford University"
+      #     url: "https://siepr.stanford.edu/"
+      #   date: "2022 - 2023"
+      #   content: |-
+      #     Non-matriculated graduate student. 
           
+      #     Attended Industrial Organization and Public & Environmental Seminars.
           
-      - title: "SIEPR Program"
-        school:
-          name: "Stanford University"
-          url: "https://siepr.stanford.edu/"
-        date: "2022 - 2023"
-        content: |-
-          Non-matriculated graduate student. 
-          
-          Attended Industrial Organization and Public & Environmental Seminars.
-          
-        featuredLink:
-          enable: true
-          name: "Stanford Transcript"
-          url: "https://github.com/brantjwalker/BJWwebsite/blob/main/Files/stanfordTranscript.pdf"
+      #   featuredLink:
+      #     enable: true
+      #     name: "Stanford Transcript"
+      #     url: "https://github.com/brantjwalker/BJWwebsite/blob/main/Files/stanfordTranscript.pdf"
         
 
   # Achievements
@@ -388,7 +386,7 @@ params:
     enable: true
     # title: "Custom Name"
     # content: 
-    email: brantjwalker@berkeley.edu
+    email: brant.walker@yale.edu
     btnName: Mail me
 
   footer:
